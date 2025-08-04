@@ -4,8 +4,4 @@
 
 
 
-https://scholar.google.com/citations?view_op=view_citation&hl=ko&user=Om9iYXAAAAAJ&citation_for_view=Om9iYXAAAAAJ:W7OEmFMy1HYC
-
-
-
 base model: https://github.com/Syliz517/CLIP-ReID.git
